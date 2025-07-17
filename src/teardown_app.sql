@@ -1,0 +1,2 @@
+-- https://docs.snowflake.com/en/developer-guide/native-apps/tutorials/na-spcs-tutorial#learn-more
+-- Run in terminal
